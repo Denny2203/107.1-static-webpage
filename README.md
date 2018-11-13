@@ -20,4 +20,10 @@ Week 4
 
 Week 5
 * imagegallery.html
+
+Week 6
 * pet.html
+
+Week 7
+* galleryTemplate.html
+* TKU Assignments.html
